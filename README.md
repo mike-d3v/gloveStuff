@@ -19,6 +19,7 @@ Features:
 - Power select for servos (via solder jumper), either power them from input power (usually 5V USB bank) or from external power supply you can connect.
 - Power select for haptic motor  (via solder jumper), either power the on-board linear regulator, or from external power supply you can connect.
 - Support for up to 8 haptic motors, which can be controlled via PWM through a 74HC595 shift register, to set the intensity of the vibration. Ideally, you would use coin cell motors [like these](https://www.aliexpress.com/item/1005003987941308.html). You can attach them to the fingertips allowing you to "touch" things in VR. Please note that at the moment haptic feedback is officialy not supported by proto 5 (as far as I know) so appropriate modification of the firmware is needed.
+- It breaks out I2C pins, allowing for possible connection of extra external periphetals.
 
 <b>This design is beta and even though it seems to be working corectly from what I tested so far, you will be using it entirely at your own risk.</b>
 
