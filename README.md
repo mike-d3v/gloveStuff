@@ -36,6 +36,6 @@ This is a simple enclosure that snugly fits all of the electronics needed to pow
 </p>
 
 It has space for the battery, pcb and a TP4056 breakout module which handles charging of the battery and also saves the battery from overdischarging.
-On the side, they are also two openins for the calibration button and an ON/OFF switch.
+On the side, there are also two openins for the calibration button and an ON/OFF switch.
 In order to attach the enclosrue to the rigid mount, you need to print the included clip and hotglue it to the bottom of the box.
 
