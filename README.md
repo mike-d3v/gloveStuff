@@ -1,3 +1,5 @@
+<h2>PCB</h2>
+
 This is a PCB designed to be used with the  [LucidVR glove](https://github.com/LucidVR/lucidgloves) (prototype 4 & 5).
 
 <p float="left">
@@ -22,4 +24,18 @@ Features:
 - It breaks out I2C pins, allowing for possible connection of extra external periphetals.
 
 <b>This design is beta and even though it seems to be working corectly from what I tested so far, you will be using it entirely at your own risk.</b>
+
+
+<h2>Enclosure</h2>
+
+This is a simple enclosure that snugly fits all of the electronics needed to power the glove. 
+<p float="left">
+	<img src="images/glove2.png" style="height: 300px;">
+	<img src="images/gloveBox.png" style="height: 300px;"><br>
+	<img src="images/gloveBox2.png" style="height: 300px;"><br>
+</p>
+
+It has space for the battery, pcb and a TP4056 breakout module which handles charging of the battery and also saves the battery from overdischarging.
+On the side, they are also two openins for the calibration button and an ON/OFF switch.
+In order to attach the enclosrue to the rigid mount, you need to print the included clip and hotglue it to the bottom of the box.
 
