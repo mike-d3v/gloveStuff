@@ -36,7 +36,7 @@ This is a simple enclosure that snugly fits all of the electronics needed to pow
 </p>
 
 It has space for the battery, pcb and a TP4056 breakout module which handles charging of the battery and also saves the battery from overdischarging.
-The battey used is a 804040 3.7V 1800mAh Lipo. The battery operates in voltages between 4.2V - 3V, so note, that using a single cell lipo like that presents one disadvantage: the servos are designed to work from 5V, this means that once the battery output starts approaching 3V, the servos will still work, but feel more weak and sluggish. 
+The battey used is a 804040 3.7V 1800mAh Lipo. The battery operates in voltages between 4.2V - 3V, so note, that using a single cell lipo like that presents one disadvantage: the servos are designed to work from 5V, this means that once the battery output starts approaching 3V, the servos will still work, but feel weaker and sluggish. 
 On the side, there are also two openins for the calibration button and an ON/OFF switch.
 In order to attach the enclosrue to the rigid mount, you need to print the included clip and hotglue it to the bottom of the box.
 
