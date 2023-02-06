@@ -1,4 +1,4 @@
-This is a PCB designed to be used with the  [LucidVR glove](https://github.com/LucidVR/lucidgloves) (prototype 5).
+This is a PCB designed to be used with the  [LucidVR glove](https://github.com/LucidVR/lucidgloves) (prototype 4 & 5).
 
 <p float="left">
 	<img src="images/1.jpg" style="height: 300px;">
